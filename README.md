@@ -1,9 +1,8 @@
-# tools_to_watch
-List of interesting tools by Application
+# List of interesting tools by Application
 
 <img src="https://octodex.github.com/images/privateinvestocat.jpg" width="400" height="400">
 
-<h2>Contents</h2>
+## Contents
 
 1. ANALYTICS
     1. [ ] HEAP
