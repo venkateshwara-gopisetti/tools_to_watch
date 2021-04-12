@@ -8,12 +8,12 @@ Contents
 <img src="https://octodex.github.com/images/privateinvestocat.jpg" width="400" height="400">
 
 1. ANALYTICS
-    a. HEAP
-    b. LOOKER
+    i. HEAP
+    ii. LOOKER
 2. DATABASE SYSTEMS
     a. SQL
-        1. POSTGRESQL
-        2. MYSQL
+        - POSTGRESQL
+        - MYSQL
     b. NOSQL
         1. REDISDB
         2. MONGODB
