@@ -1,7 +1,4 @@
-# List of interesting tools by Application
-
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/ntkme/github-buttons" data-color-scheme="no-preference: light; light: light; dark: light;" data-size="large" aria-label="Star ntkme/github-buttons on GitHub">Star</a>
+# List of interesting tools by Application Type
 
 <img src="https://octodex.github.com/images/privateinvestocat.jpg" width="400" height="400">
 
