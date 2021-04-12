@@ -6,7 +6,7 @@
 
 1. ANALYTICS
     1. [ ] HEAP
-    2. [ ] https://looker.com/
+    2. [ ] (https://looker.com/)
 2. DATABASE SYSTEMS
     1. SQL
         1. [ ] POSTGRESQL
@@ -21,7 +21,7 @@
     1. SWAGGER
     2. WINDOWS POWERSHELL
 
-<h3>ANALYTICS</h3>
+### Analytics
 Tools that have connectors to different data sources, and provide ETL/ELT services.
 
 
