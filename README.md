@@ -20,6 +20,7 @@
 4. Misc.
     1. [ ] [Swagger](https://swagger.io/)
     2. [ ] [Windows Powershell](https://docs.microsoft.com/en-us/powershell/)
+    3. [ ] [GraphQL](https://graphql.org/)
 
 ### Analytics
 Tools that have connectors to different data sources, and provide ETL/ELT services.
