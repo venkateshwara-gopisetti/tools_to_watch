@@ -6,7 +6,7 @@
 
 1. ANALYTICS
     1. [ ] HEAP
-    2. [ ] LOOKER
+    2. [ ] LOOKER (https://looker.com/)
 2. DATABASE SYSTEMS
     1. SQL
         1. [ ] POSTGRESQL
