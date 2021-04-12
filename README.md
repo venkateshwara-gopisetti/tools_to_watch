@@ -8,21 +8,21 @@ Contents
 <img src="https://octodex.github.com/images/privateinvestocat.jpg" width="400" height="400">
 
 1. ANALYTICS
-  a. HEAP
-  b. LOOKER
+    a. HEAP
+    b. LOOKER
 2. DATABASE SYSTEMS
-  a. SQL
-    1. POSTGRESQL
-    2. MYSQL
-  b. NOSQL
-    1. REDISDB
-    2. MONGODB
+    a. SQL
+        1. POSTGRESQL
+        2. MYSQL
+    b. NOSQL
+        1. REDISDB
+        2. MONGODB
 3. DATA STREAMING
-  1. APACHE KAFKA
-  2. REDIS STREAMS
+    1. APACHE KAFKA
+    2. REDIS STREAMS
 4. MISC.
-  1. SWAGGER
-  2. WINDOWS POWERSHELL
+    1. SWAGGER
+    2. WINDOWS POWERSHELL
 
 
 ANALYTICS
@@ -30,7 +30,3 @@ ANALYTICS
 - [x] this is a complete item 
 - [ ] this is an incomplete item
 
-1. One
-    - test
-2. Two
-3. Three
