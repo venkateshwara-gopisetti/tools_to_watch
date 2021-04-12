@@ -31,6 +31,6 @@ ANALYTICS
 - [ ] this is an incomplete item
 
 1. One
-  1. test
+  - test
 2. Two
 3. Three
