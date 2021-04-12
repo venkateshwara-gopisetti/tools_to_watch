@@ -5,7 +5,7 @@ List of interesting tools by Application
 Contents
 -------------
 
-.. image:: images/mask.png
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 1. ANALYTICS
     a. HEAP
