@@ -1,28 +1,28 @@
-Title
-  Contents
-    ANALYTICS
-      HEAP
-      LOOKER
-    DATABASE SYSTEMS
-      SQL
-        POSTGRESQL
-        MYSQL
-      NOSQL
-        REDIS
-        MONGODB
-    DATA STREAMING
-      APACHE KAFKA
-    MISC.
-      GRAPHQL
-      SWAGGER
-  ANALYTICS
-  DATABASE SYSTEMS
-    SQL
-    NOSQL
-  DATA STREAMING
-    KAFKA
-  MISC.
-    GRAPHQL
-    SWAGGER
-    WINDOWS POWERSHELL
-    
+================
+TITLE
+================
+Contents
+-------------
+
+.. image:: images/mask.png
+
+1. ANALYTICS
+    a. HEAP
+    b. LOOKER
+2. DATABASE SYSTEMS
+    a. SQL
+        1. POSTGRESQL
+        2. MYSQL
+    b. NOSQL
+        1. REDISDB
+        2. MONGODB
+3. DATA STREAMING
+    1. APACHE KAFKA
+    2. REDIS STREAMS
+4. MISC.
+    1. SWAGGER
+    2. WINDOWS POWERSHELL
+
+
+ANALYTICS
+
