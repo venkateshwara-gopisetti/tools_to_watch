@@ -11,10 +11,10 @@ Contents
     i. HEAP
     ii. LOOKER
 2. DATABASE SYSTEMS
-    a. SQL
-        - POSTGRESQL
-        - MYSQL
-    b. NOSQL
+    1. SQL
+        1. POSTGRESQL
+        2. MYSQL
+    2. NOSQL
         1. REDISDB
         2. MONGODB
 3. DATA STREAMING
