@@ -27,5 +27,5 @@ Contents
 
 ANALYTICS
 
-- [x] this is a complete item
+- this is a complete item [x] 
 - [ ] this is an incomplete item
