@@ -7,10 +7,10 @@ Contents
 
 <img src="https://octodex.github.com/images/privateinvestocat.jpg" width="400" height="400">
 
-1. ANALYTICS
+1.ANALYTICS
   a.HEAP
   b.LOOKER
-2. DATABASE SYSTEMS
+2.DATABASE SYSTEMS
   a.SQL
     1. POSTGRESQL
     2. MYSQL
