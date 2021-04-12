@@ -5,7 +5,7 @@ List of interesting tools by Application
 Contents
 -------------
 
-![Image of Yaktocat](https://octodex.github.com/privateinvestocat.png)
+![](https://octodex.github.com/images/privateinvestocat.jpg)
 
 
 1. ANALYTICS
