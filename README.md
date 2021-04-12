@@ -5,7 +5,7 @@ List of interesting tools by Application
 Contents
 -------------
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://octodex.github.com/images/privateinvestocat.png)
 
 ![GitHub Logo](/images/logo.png)
 Format: ![Alt Text](url)
@@ -13,21 +13,21 @@ Format: ![Alt Text](url)
 
 
 1. ANALYTICS
-    a. HEAP
-    b. LOOKER
+  a. HEAP
+  b. LOOKER
 2. DATABASE SYSTEMS
-    a. SQL
-        1. POSTGRESQL
-        2. MYSQL
-    b. NOSQL
-        1. REDISDB
-        2. MONGODB
+  a. SQL
+    1. POSTGRESQL
+    2. MYSQL
+  b. NOSQL
+    1. REDISDB
+    2. MONGODB
 3. DATA STREAMING
-    1. APACHE KAFKA
-    2. REDIS STREAMS
+  1. APACHE KAFKA
+  2. REDIS STREAMS
 4. MISC.
-    1. SWAGGER
-    2. WINDOWS POWERSHELL
+  1. SWAGGER
+  2. WINDOWS POWERSHELL
 
 
 ANALYTICS
