@@ -8,10 +8,10 @@ Contents
 <img src="https://octodex.github.com/images/privateinvestocat.jpg" width="400" height="400">
 
 1. ANALYTICS
-  a. HEAP
-  b. LOOKER
+  a.HEAP
+  b.LOOKER
 2. DATABASE SYSTEMS
-  a. SQL
+  a.SQL
     1. POSTGRESQL
     2. MYSQL
   b. NOSQL
@@ -27,5 +27,5 @@ Contents
 
 ANALYTICS
 
-- this is a complete item [x] 
+- [x] this is a complete item 
 - [ ] this is an incomplete item
