@@ -1,10 +1,7 @@
 # List of interesting tools by Application
 
 <!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/ntkme/github-buttons/subscription" data-color-scheme="no-preference: light; light: light; dark: light;" data-size="large" aria-label="Watch ntkme/github-buttons on GitHub">Watch</a>
-
-<!-- Place this tag in your head or just before your close body tag. -->
-<script async defer src="https://buttons.github.io/buttons.js"></script>
+<a class="github-button" href="https://github.com/ntkme/github-buttons" data-color-scheme="no-preference: light; light: light; dark: light;" data-size="large" aria-label="Star ntkme/github-buttons on GitHub">Star</a>
 
 <img src="https://octodex.github.com/images/privateinvestocat.jpg" width="400" height="400">
 
