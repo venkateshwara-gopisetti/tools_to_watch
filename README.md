@@ -6,24 +6,23 @@ List of interesting tools by Application
 <h2>Contents</h2>
 
 1. ANALYTICS
-    1. HEAP
-    2. LOOKER
+    1. [ ] HEAP
+    2. [ ] LOOKER
 2. DATABASE SYSTEMS
     1. SQL
-        1. POSTGRESQL
-        2. MYSQL
+        1. [ ] POSTGRESQL
+        2. [ ] MYSQL
     2. NOSQL
-        1. REDISDB
-        2. MONGODB
+        1. [X] REDISDB
+        2. [X] MONGODB
 3. DATA STREAMING
     1. APACHE KAFKA
-    2. REDIS STREAMS
+    2. [X] REDIS STREAMS
 4. MISC.
     1. SWAGGER
     2. WINDOWS POWERSHELL
 
 <h3>ANALYTICS</h3>
+Tools that have connectors to different data sources, and provide ETL/ELT services.
 
-- [x] this is a complete item 
-- [ ] this is an incomplete item
 
