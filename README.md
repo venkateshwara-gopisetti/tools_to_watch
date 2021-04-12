@@ -7,9 +7,10 @@ Contents
 
 <img src="https://octodex.github.com/images/privateinvestocat.jpg" width="400" height="400">
 
+<h2>Contents</h2>
 1. ANALYTICS
-    i. HEAP
-    ii. LOOKER
+    1. HEAP
+    2. LOOKER
 2. DATABASE SYSTEMS
     1. SQL
         1. POSTGRESQL
@@ -24,11 +25,8 @@ Contents
     1. SWAGGER
     2. WINDOWS POWERSHELL
 
-
-ANALYTICS
+<h3>ANALYTICS</h3>
 
 - [x] this is a complete item 
 - [ ] this is an incomplete item
 
-1. 123
-    a. asd
