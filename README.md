@@ -5,8 +5,7 @@ List of interesting tools by Application
 Contents
 -------------
 
-![](https://octodex.github.com/images/privateinvestocat.jpg)
-
+<img src="https://octodex.github.com/images/privateinvestocat.jpg" width="400" height="400">
 
 1. ANALYTICS
   a. HEAP
