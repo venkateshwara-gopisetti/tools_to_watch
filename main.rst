@@ -1,0 +1,28 @@
+Title
+  Contents
+    ANALYTICS
+      HEAP
+      LOOKER
+    DATABASE SYSTEMS
+      SQL
+        POSTGRESQL
+        MYSQL
+      NOSQL
+        REDIS
+        MONGODB
+    DATA STREAMING
+      APACHE KAFKA
+    MISC.
+      GRAPHQL
+      SWAGGER
+  ANALYTICS
+  DATABASE SYSTEMS
+    SQL
+    NOSQL
+  DATA STREAMING
+    KAFKA
+  MISC.
+    GRAPHQL
+    SWAGGER
+    WINDOWS POWERSHELL
+    
