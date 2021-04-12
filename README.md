@@ -1,5 +1,8 @@
 # List of interesting tools by Application
 
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/ntkme/github-buttons/subscription" data-color-scheme="no-preference: light; light: light; dark: light;" data-size="large" aria-label="Watch ntkme/github-buttons on GitHub">Watch</a>
+
 <img src="https://octodex.github.com/images/privateinvestocat.jpg" width="400" height="400">
 
 ## Contents
