@@ -1,10 +1,6 @@
 # tools_to_watch
 List of interesting tools by Application
 
--------------
-Contents
--------------
-
 <img src="https://octodex.github.com/images/privateinvestocat.jpg" width="400" height="400">
 
 <h2>Contents</h2>
