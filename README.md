@@ -24,114 +24,51 @@
 
 ### Analytics
 Tools that have connectors to different data sources, and provide ETL/ELT services.
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
+Wikipedia (/ˌwɪkɪˈpiːdiə/ (About this soundlisten) wik-ih-PEE-dee-ə or /ˌwɪki-/ (About this soundlisten) wik-ee-) is a free, multilingual open-collaborative online encyclopedia created and maintained by a community of volunteer contributors using a wiki-based editing system. Wikipedia is the largest general reference work on the Internet,[3] and one of the 15 most popular websites as ranked by Alexa; in 2021, it was ranked as the 13th most-visited.[4][note 3] The project carries no advertisements and is hosted by the Wikimedia Foundation, an American non-profit organization funded mainly through donations.[6]
+
+Wikipedia was launched on January 15, 2001, by Jimmy Wales and Larry Sanger; Sanger coined its name as a portmanteau of "wiki" and "encyclopedia".[7][8] Initially available only in English, versions in other languages were quickly developed. The English Wikipedia, with 6.3 million articles as of April 2021, is the largest of the 321 language editions. Combined, Wikipedia's editions comprise more than 56 million articles, and attract more than 17 million edits and more than 1.7 billion unique visitors per month.[9][10]
+
+Wikipedia has been criticized for its uneven accuracy and for exhibiting systemic bias, particularly gender bias against women and a left-wing political bias.[11][12][13] In 2006, Time magazine stated that the open-door policy of allowing anyone to edit had made Wikipedia the "biggest and perhaps the best encyclopedia in the world", and a testament to the vision of Jimmy Wales.[14] The project's reputation improved further in the 2010s, as it received praise for its unique structure, culture, and absence of commercial bias.[3][11][15] In 2018, Facebook and YouTube announced that they would help users detect fake news by suggesting links to related Wikipedia articles.[16]Wikipedia (/ˌwɪkɪˈpiːdiə/ (About this soundlisten) wik-ih-PEE-dee-ə or /ˌwɪki-/ (About this soundlisten) wik-ee-) is a free, multilingual open-collaborative online encyclopedia created and maintained by a community of volunteer contributors using a wiki-based editing system. Wikipedia is the largest general reference work on the Internet,[3] and one of the 15 most popular websites as ranked by Alexa; in 2021, it was ranked as the 13th most-visited.[4][note 3] The project carries no advertisements and is hosted by the Wikimedia Foundation, an American non-profit organization funded mainly through donations.[6]
+
+Wikipedia was launched on January 15, 2001, by Jimmy Wales and Larry Sanger; Sanger coined its name as a portmanteau of "wiki" and "encyclopedia".[7][8] Initially available only in English, versions in other languages were quickly developed. The English Wikipedia, with 6.3 million articles as of April 2021, is the largest of the 321 language editions. Combined, Wikipedia's editions comprise more than 56 million articles, and attract more than 17 million edits and more than 1.7 billion unique visitors per month.[9][10]
+
+Wikipedia has been criticized for its uneven accuracy and for exhibiting systemic bias, particularly gender bias against women and a left-wing political bias.[11][12][13] In 2006, Time magazine stated that the open-door policy of allowing anyone to edit had made Wikipedia the "biggest and perhaps the best encyclopedia in the world", and a testament to the vision of Jimmy Wales.[14] The project's reputation improved further in the 2010s, as it received praise for its unique structure, culture, and absence of commercial bias.[3][11][15] In 2018, Facebook and YouTube announced that they would help users detect fake news by suggesting links to related Wikipedia articles.[16]
 #### Heap
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
+Wikipedia (/ˌwɪkɪˈpiːdiə/ (About this soundlisten) wik-ih-PEE-dee-ə or /ˌwɪki-/ (About this soundlisten) wik-ee-) is a free, multilingual open-collaborative online encyclopedia created and maintained by a community of volunteer contributors using a wiki-based editing system. Wikipedia is the largest general reference work on the Internet,[3] and one of the 15 most popular websites as ranked by Alexa; in 2021, it was ranked as the 13th most-visited.[4][note 3] The project carries no advertisements and is hosted by the Wikimedia Foundation, an American non-profit organization funded mainly through donations.[6]
 
+Wikipedia was launched on January 15, 2001, by Jimmy Wales and Larry Sanger; Sanger coined its name as a portmanteau of "wiki" and "encyclopedia".[7][8] Initially available only in English, versions in other languages were quickly developed. The English Wikipedia, with 6.3 million articles as of April 2021, is the largest of the 321 language editions. Combined, Wikipedia's editions comprise more than 56 million articles, and attract more than 17 million edits and more than 1.7 billion unique visitors per month.[9][10]
+
+Wikipedia has been criticized for its uneven accuracy and for exhibiting systemic bias, particularly gender bias against women and a left-wing political bias.[11][12][13] In 2006, Time magazine stated that the open-door policy of allowing anyone to edit had made Wikipedia the "biggest and perhaps the best encyclopedia in the world", and a testament to the vision of Jimmy Wales.[14] The project's reputation improved further in the 2010s, as it received praise for its unique structure, culture, and absence of commercial bias.[3][11][15] In 2018, Facebook and YouTube announced that they would help users detect fake news by suggesting links to related Wikipedia articles.[16]
+Wikipedia (/ˌwɪkɪˈpiːdiə/ (About this soundlisten) wik-ih-PEE-dee-ə or /ˌwɪki-/ (About this soundlisten) wik-ee-) is a free, multilingual open-collaborative online encyclopedia created and maintained by a community of volunteer contributors using a wiki-based editing system. Wikipedia is the largest general reference work on the Internet,[3] and one of the 15 most popular websites as ranked by Alexa; in 2021, it was ranked as the 13th most-visited.[4][note 3] The project carries no advertisements and is hosted by the Wikimedia Foundation, an American non-profit organization funded mainly through donations.[6]
+
+Wikipedia was launched on January 15, 2001, by Jimmy Wales and Larry Sanger; Sanger coined its name as a portmanteau of "wiki" and "encyclopedia".[7][8] Initially available only in English, versions in other languages were quickly developed. The English Wikipedia, with 6.3 million articles as of April 2021, is the largest of the 321 language editions. Combined, Wikipedia's editions comprise more than 56 million articles, and attract more than 17 million edits and more than 1.7 billion unique visitors per month.[9][10]
+
+Wikipedia has been criticized for its uneven accuracy and for exhibiting systemic bias, particularly gender bias against women and a left-wing political bias.[11][12][13] In 2006, Time magazine stated that the open-door policy of allowing anyone to edit had made Wikipedia the "biggest and perhaps the best encyclopedia in the world", and a testament to the vision of Jimmy Wales.[14] The project's reputation improved further in the 2010s, as it received praise for its unique structure, culture, and absence of commercial bias.[3][11][15] In 2018, Facebook and YouTube announced that they would help users detect fake news by suggesting links to related Wikipedia articles.[16]
 #### Looker
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
+Wikipedia (/ˌwɪkɪˈpiːdiə/ (About this soundlisten) wik-ih-PEE-dee-ə or /ˌwɪki-/ (About this soundlisten) wik-ee-) is a free, multilingual open-collaborative online encyclopedia created and maintained by a community of volunteer contributors using a wiki-based editing system. Wikipedia is the largest general reference work on the Internet,[3] and one of the 15 most popular websites as ranked by Alexa; in 2021, it was ranked as the 13th most-visited.[4][note 3] The project carries no advertisements and is hosted by the Wikimedia Foundation, an American non-profit organization funded mainly through donations.[6]
+
+Wikipedia was launched on January 15, 2001, by Jimmy Wales and Larry Sanger; Sanger coined its name as a portmanteau of "wiki" and "encyclopedia".[7][8] Initially available only in English, versions in other languages were quickly developed. The English Wikipedia, with 6.3 million articles as of April 2021, is the largest of the 321 language editions. Combined, Wikipedia's editions comprise more than 56 million articles, and attract more than 17 million edits and more than 1.7 billion unique visitors per month.[9][10]
+
+Wikipedia has been criticized for its uneven accuracy and for exhibiting systemic bias, particularly gender bias against women and a left-wing political bias.[11][12][13] In 2006, Time magazine stated that the open-door policy of allowing anyone to edit had made Wikipedia the "biggest and perhaps the best encyclopedia in the world", and a testament to the vision of Jimmy Wales.[14] The project's reputation improved further in the 2010s, as it received praise for its unique structure, culture, and absence of commercial bias.[3][11][15] In 2018, Facebook and YouTube announced that they would help users detect fake news by suggesting links to related Wikipedia articles.[16]
 
 
+Wikipedia (/ˌwɪkɪˈpiːdiə/ (About this soundlisten) wik-ih-PEE-dee-ə or /ˌwɪki-/ (About this soundlisten) wik-ee-) is a free, multilingual open-collaborative online encyclopedia created and maintained by a community of volunteer contributors using a wiki-based editing system. Wikipedia is the largest general reference work on the Internet,[3] and one of the 15 most popular websites as ranked by Alexa; in 2021, it was ranked as the 13th most-visited.[4][note 3] The project carries no advertisements and is hosted by the Wikimedia Foundation, an American non-profit organization funded mainly through donations.[6]
+
+Wikipedia was launched on January 15, 2001, by Jimmy Wales and Larry Sanger; Sanger coined its name as a portmanteau of "wiki" and "encyclopedia".[7][8] Initially available only in English, versions in other languages were quickly developed. The English Wikipedia, with 6.3 million articles as of April 2021, is the largest of the 321 language editions. Combined, Wikipedia's editions comprise more than 56 million articles, and attract more than 17 million edits and more than 1.7 billion unique visitors per month.[9][10]
+
+Wikipedia has been criticized for its uneven accuracy and for exhibiting systemic bias, particularly gender bias against women and a left-wing political bias.[11][12][13] In 2006, Time magazine stated that the open-door policy of allowing anyone to edit had made Wikipedia the "biggest and perhaps the best encyclopedia in the world", and a testament to the vision of Jimmy Wales.[14] The project's reputation improved further in the 2010s, as it received praise for its unique structure, culture, and absence of commercial bias.[3][11][15] In 2018, Facebook and YouTube announced that they would help users detect fake news by suggesting links to related Wikipedia articles.[16]
 
 
+Wikipedia (/ˌwɪkɪˈpiːdiə/ (About this soundlisten) wik-ih-PEE-dee-ə or /ˌwɪki-/ (About this soundlisten) wik-ee-) is a free, multilingual open-collaborative online encyclopedia created and maintained by a community of volunteer contributors using a wiki-based editing system. Wikipedia is the largest general reference work on the Internet,[3] and one of the 15 most popular websites as ranked by Alexa; in 2021, it was ranked as the 13th most-visited.[4][note 3] The project carries no advertisements and is hosted by the Wikimedia Foundation, an American non-profit organization funded mainly through donations.[6]
 
+Wikipedia was launched on January 15, 2001, by Jimmy Wales and Larry Sanger; Sanger coined its name as a portmanteau of "wiki" and "encyclopedia".[7][8] Initially available only in English, versions in other languages were quickly developed. The English Wikipedia, with 6.3 million articles as of April 2021, is the largest of the 321 language editions. Combined, Wikipedia's editions comprise more than 56 million articles, and attract more than 17 million edits and more than 1.7 billion unique visitors per month.[9][10]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Wikipedia has been criticized for its uneven accuracy and for exhibiting systemic bias, particularly gender bias against women and a left-wing political bias.[11][12][13] In 2006, Time magazine stated that the open-door policy of allowing anyone to edit had made Wikipedia the "biggest and perhaps the best encyclopedia in the world", and a testament to the vision of Jimmy Wales.[14] The project's reputation improved further in the 2010s, as it received praise for its unique structure, culture, and absence of commercial bias.[3][11][15] In 2018, Facebook and YouTube announced that they would help users detect fake news by suggesting links to related Wikipedia articles.[16]
 
 
 ### Database Systems
+Wikipedia (/ˌwɪkɪˈpiːdiə/ (About this soundlisten) wik-ih-PEE-dee-ə or /ˌwɪki-/ (About this soundlisten) wik-ee-) is a free, multilingual open-collaborative online encyclopedia created and maintained by a community of volunteer contributors using a wiki-based editing system. Wikipedia is the largest general reference work on the Internet,[3] and one of the 15 most popular websites as ranked by Alexa; in 2021, it was ranked as the 13th most-visited.[4][note 3] The project carries no advertisements and is hosted by the Wikimedia Foundation, an American non-profit organization funded mainly through donations.[6]
+
+Wikipedia was launched on January 15, 2001, by Jimmy Wales and Larry Sanger; Sanger coined its name as a portmanteau of "wiki" and "encyclopedia".[7][8] Initially available only in English, versions in other languages were quickly developed. The English Wikipedia, with 6.3 million articles as of April 2021, is the largest of the 321 language editions. Combined, Wikipedia's editions comprise more than 56 million articles, and attract more than 17 million edits and more than 1.7 billion unique visitors per month.[9][10]
+
+Wikipedia has been criticized for its uneven accuracy and for exhibiting systemic bias, particularly gender bias against women and a left-wing political bias.[11][12][13] In 2006, Time magazine stated that the open-door policy of allowing anyone to edit had made Wikipedia the "biggest and perhaps the best encyclopedia in the world", and a testament to the vision of Jimmy Wales.[14] The project's reputation improved further in the 2010s, as it received praise for its unique structure, culture, and absence of commercial bias.[3][11][15] In 2018, Facebook and YouTube announced that they would help users detect fake news by suggesting links to related Wikipedia articles.[16]
