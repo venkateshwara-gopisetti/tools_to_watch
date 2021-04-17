@@ -69,7 +69,7 @@ regex_patterns = {
 base_pattern = "|".join(regex_patterns.values())
 
 path_list = [ROOT, CONTENTS]
-repo_list = ['../master', CONTENTS]
+repo_list = ['../main', CONTENTS]
 previous_level = 0
 
 temp_file = file[contents_start+2:contents_start+2+contents_end]
