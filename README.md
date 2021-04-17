@@ -25,5 +25,49 @@
 ### Analytics
 Tools that have connectors to different data sources, and provide ETL/ELT services.
 #### Heap
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #### Looker
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Database Systems
