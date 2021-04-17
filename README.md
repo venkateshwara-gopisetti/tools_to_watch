@@ -23,6 +23,35 @@
     3. [ ] [GraphQL](#GraphQL)
 
 ### Analytics
+
 #### Heap
+
 #### Looker
+
 ### Database Systems
+
+#### SQL
+
+#### PostgreSQL
+
+#### MySQL
+
+#### NOSQL
+
+#### RedisDB
+
+#### MongoDB
+
+### Data Streaming
+
+#### Apache Kafka
+
+#### Redis Streams
+
+### Miscellaneous
+
+#### Swagger
+
+#### Windows Powershell
+
+#### GraphQL
