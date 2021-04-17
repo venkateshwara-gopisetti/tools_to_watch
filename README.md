@@ -5,7 +5,7 @@
 ## Contents
 
 1. Analytics
-    1. [ ] [Heap](../blob/master/CONTENTS/Analytics/Heap)
+    1. [ ] [Heap](../master/CONTENTS/Analytics/Heap)
     2. [ ] [Looker](../blob/master/CONTENTS/Analytics/Looker)
 2. Database Systems
     1. SQL
