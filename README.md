@@ -5,8 +5,8 @@
 ## Contents
 
 1. Analytics
-    1. [ ] [Heap](../CONTENTS/Analytics/Heap)
-    2. [ ] [Looker](../CONTENTS/Analytics/Looker)
+    1. [ ] [Heap](../blob/master/CONTENTS/Analytics/Heap)
+    2. [ ] [Looker](../blob/master/CONTENTS/Analytics/Looker)
 2. Database Systems
     1. SQL
         1. [ ] [PostgreSQL](../CONTENTS/Database Systems/SQL/PostgreSQL)
