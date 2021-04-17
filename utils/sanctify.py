@@ -69,7 +69,6 @@ regex_patterns = {
 base_pattern = "|".join(regex_patterns.values())
 
 path_list = [ROOT, CONTENTS]
-repo_list = ['../main', CONTENTS]
 previous_level = 0
 
 temp_file = file[contents_start+2:contents_start+2+contents_end]
@@ -84,7 +83,7 @@ for ind, element in enumerate(temp_file):
     path_list.append(reduction(re.search(base_pattern, element).groups(1)))
     previous_level = current_level
     create_dir(pathjoin(path_list))
-    repo_link = pathjoin(path_list).replace(ROOT, '../master').replace('\\','/')
+    repo_link = pathjoin(path_list).replace(ROOT, '../main').replace('\\','/')
     temp_file[ind] = re.sub(r'\(.*\)','({})'.format( urllib.parse.quote(repo_link)), element)
 
 
