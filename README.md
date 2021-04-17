@@ -5,7 +5,7 @@
 ## Contents
 
 1. [Analytics](#Analytics)
-    1. [ ] [Heap](#Analytics/Heap)
+    1. [ ] [Heap](#Heap)
     2. [ ] [Looker](#Analytics/Looker)
 2. [Database Systems](#Database%20Systems)
     1. [SQL](#Database%20Systems/SQL)
