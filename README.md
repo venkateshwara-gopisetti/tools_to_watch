@@ -4,8 +4,8 @@
 
 ## Contents
 
-1. Analytics(/main/CONTENTS/Analytics)
-    1. [ ] [Heap](../main/CONTENTS/Analytics/Heap)
+1. Analytics(../main/CONTENTS/Analytics)
+    1. [ ] [Heap](../CONTENTS/Analytics/Heap)
     2. [ ] [Looker](../main/CONTENTS/Analytics/Looker)
 2. Database Systems(../main/CONTENTS/Database%20Systems)
     1. SQL(../main/CONTENTS/Database%20Systems/SQL)
